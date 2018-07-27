@@ -1,0 +1,34 @@
+export(
+  gsMMD.v,
+  plotHistDensity.v
+)
+
+importMethodsFrom(Biobase,
+                 exprs)
+
+importFrom(MASS,
+          ginv)
+
+importFrom(graphics,
+          hist,
+          legend,
+          lines,
+          plot,
+          title)
+
+importFrom(stats,
+          cor,
+          dnorm,
+          qqnorm,
+          sd,
+          t.test,
+          var,
+          wilcox.test,
+          model.matrix)
+
+importFrom("stats", "optim")
+
+importFrom(lawstat,
+          levene.test)
+
+importFrom("stats", "median", "pchisq", "pf")

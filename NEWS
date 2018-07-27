@@ -1,0 +1,25 @@
+# v0.0.9 created on July 22, 2018
+#  (1) drop 'dontrun' in 'plotHistDensity.v.Rd'
+#
+# v0.0.8 created on July 21, 2018
+#  (1) added doi info in DESCRIPTION file
+#  (2) dropped 'dontrun' in 'gsMMD.v.Rd'
+#
+# v0.0.7 created on July 15, 2018
+#  (1) add reference
+#  (2) remove inst subdirectory
+# v0.0.6 created on Dec. 10, 2017
+#  (1) unify the input and output formats of equal-variance tests
+#  (2) new initial equal variance tests include:
+#   "myFTest", "myLeveneTest",
+#   "myLevene.TM", "myBFTest", "myAWvar",     
+#   "myiAWvar.BF", "myiAWvar.Levene", "myiAWvar.TM"
+#
+# v0.0.5 created on Dec. 5, 2017
+# #  (1) add "BFtest", "iAWvar.BF", "iAWvar.Levene",
+#         "iAWvar.TrimMean" to gsMMD.v
+# v0.0.4 created on Nov. 3, 2017
+# #  (1) set R depenence to v3.4.0
+# 
+# v0.0.1 created on June 28, 2012
+#  (1) select genes based on variance, instead of mean
