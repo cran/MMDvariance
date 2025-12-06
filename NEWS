@@ -1,3 +1,5 @@
+# v0.1.0 created on December 06, 2025
+#  (1) use a conditional check to se if the Bioconductor package 'ALL' is available before trying to use it
 # v0.0.9 created on July 22, 2018
 #  (1) drop 'dontrun' in 'plotHistDensity.v.Rd'
 #
